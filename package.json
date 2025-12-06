@@ -1,0 +1,16 @@
+{
+  "name": "apk-editor",
+  "version": "1.0.0",
+  "description": "APK decompiler and modifier tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["apk", "android", "decompiler"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
